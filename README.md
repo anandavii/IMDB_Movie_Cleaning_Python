@@ -69,7 +69,7 @@ For detailed information about each cleaning step, refer to the Jupyter notebook
 
 ## Output
 
-The cleaned dataset resulted in improved data integrity and readiness for further analysis, comprising 85,855 rows and 21 columns.
+The cleaned dataset resulted in improved data integrity and readiness for further analysis, comprising 85,855 rows and 19 columns.
 
 ## Conclusion
 
